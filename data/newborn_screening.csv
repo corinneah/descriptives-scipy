@@ -1,0 +1,102 @@
+Race/Ethnicity,Disorder Type,"Disorder
+Count","Screened
+Count","Rate
+per
+100,000"
+American Indian,Cystic fibrosis (CF),9,52784,17.05
+American Indian,"Hypothyroidism, primary congenital (PCH)",25,52784,47.36
+American Indian,Sickle Cell Disease,8,52784,15.16
+Asian Indian,"Carnitine transporter deficiency (CTD)/carnitine uptake defect
+(CUD)",10,124895,8.01
+Asian Indian,"Congenital adrenal hyperplasia, classical salt wasting (CAH)",6,124895,4.80
+Asian Indian,Cystic fibrosis (CF),9,124895,7.21
+Asian Indian,"Hypothyroidism, primary congenital (PCH)",119,124895,95.28
+Asian Indian,"Medium chain acyl-CoA dehydrogenase deficiency (MCAD
+Deficiency)",7,124895,5.60
+Black,"3-Methylcrotonyl-CoA carboxylase deficiency (3MCC
+deficiency)",6,417395,1.44
+Black,ALD - not otherwise specified,9,146183,6.16
+Black,ALD carrier (female),10,146183,6.84
+Black,"Carnitine transporter deficiency (CTD)/carnitine uptake defect
+(CUD)",6,417395,1.44
+Black,"Congenital adrenal hyperplasia, classical salt wasting (CAH)",10,417395,2.40
+Black,Cystic fibrosis (CF),26,417395,6.23
+Black,"Hypothyroidism, primary congenital (PCH)",71,417395,17.01
+Black,"Medium chain acyl-CoA dehydrogenase deficiency (MCAD
+Deficiency)",8,417395,1.92
+Black,Phenylketonuria (PKU),11,417395,2.64
+Black,Sickle Cell Disease,809,417395,193.82
+Black,"Very long chain acyl-CoA dehydrogenase deficiency (VLCAD
+deficiency)",8,417395,1.92
+"Chinese, Japanese, Korean","3-Methylcrotonyl-CoA carboxylase deficiency (3MCC
+deficiency)",8,347140,2.30
+"Chinese, Japanese, Korean",ALD carrier (female),8,140973,5.67
+"Chinese, Japanese, Korean","Congenital adrenal hyperplasia, classical salt wasting (CAH)",16,347140,4.61
+"Chinese, Japanese, Korean","Hypothyroidism, primary congenital (PCH)",173,347140,49.84
+"Chinese, Japanese, Korean","Medium chain acyl-CoA dehydrogenase deficiency (MCAD
+Deficiency)",8,347140,2.30
+"Chinese, Japanese, Korean",Phenylketonuria (PKU),15,347140,4.32
+"Filipino, Laotian, Vietnamese, Cambodian,
+Other Southeast Asian","Hypothyroidism, primary congenital (PCH)",105,256588,40.92
+"Filipino, Laotian, Vietnamese, Cambodian,
+Other Southeast Asian",Phenylketonuria (PKU),8,256588,3.12
+"Hawaiian, Guamanian, Samoan","Hypothyroidism, primary congenital (PCH)",7,12988,53.90
+Hispanic,"3-Methylcrotonyl-CoA carboxylase deficiency (3MCC
+deficiency)",93,2593521,3.59
+Hispanic,ALD - not otherwise specified,43,855678,5.03
+Hispanic,ALD carrier (female),50,855678,5.84
+Hispanic,Argininosuccinyl-CoA lyase deficiency (ASAL deficiency),8,2593521,0.31
+Hispanic,Biotinidase deficiency profound (BD),43,2593521,1.66
+Hispanic,"Carnitine transporter deficiency (CTD)/carnitine uptake defect
+(CUD)",22,2593521,0.85
+Hispanic,"Citrullinemia type I (argininosuccinic acid synthetase
+deficiency (ASAS deficiency)/CIT-1)",16,2593521,0.62
+Hispanic,"Congenital adrenal hyperplasia, classical salt wasting (CAH)",131,2593521,5.05
+Hispanic,"Congenital adrenal hyperplasia, classical simple virilizing
+(CAH)",15,2593521,0.58
+Hispanic,Cystic fibrosis (CF),249,2593521,9.60
+Hispanic,"Galactosemia, classical",23,2593521,0.89
+Hispanic,Glutaric acidemia type I (GA1),25,2593521,0.96
+Hispanic,"Hypothyroidism, primary congenital (PCH)",1570,2593521,60.54
+Hispanic,Isovaleric acidemia (IVA),18,2593521,0.69
+Hispanic,Maple syrup urine disease (MSUD),14,2593521,0.54
+Hispanic,"Medium chain acyl-CoA dehydrogenase deficiency (MCAD
+Deficiency)",105,2593521,4.05
+Hispanic,Methylmalonic acidemia mut 0 (MMA),13,2593521,0.50
+Hispanic,Methylmalonic acidemia mut- (MMA),6,2593521,0.23
+Hispanic,Phenylketonuria (PKU),71,2593521,2.74
+Hispanic,Pompe - late onset Pompe disease,6,303942,1.97
+Hispanic,Propionic acidemia (PA),12,2593521,0.46
+Hispanic,"SCID, severe combined immunodeficiency",25,1540969,1.62
+Hispanic,Sickle Cell Disease,64,2593521,2.47
+Hispanic,"Very long chain acyl-CoA dehydrogenase deficiency (VLCAD
+deficiency)",19,2593521,0.73
+Middle Eastern,"Hypothyroidism, primary congenital (PCH)",30,75195,39.90
+Middle Eastern,Phenylketonuria (PKU),10,75195,13.30
+Other,"3-Methylcrotonyl-CoA carboxylase deficiency (3MCC
+deficiency)",7,97996,7.14
+Other,Cystic fibrosis (CF),8,97996,8.16
+Other,"Hypothyroidism, primary congenital (PCH)",50,97996,51.02
+Other,Sickle Cell Disease,21,97996,21.43
+White,"3-Methylcrotonyl-CoA carboxylase deficiency (3MCC
+deficiency)",17,1321415,1.29
+White,ALD - not otherwise specified,20,436495,4.58
+White,ALD carrier (female),20,436495,4.58
+White,Biotinidase deficiency profound (BD),21,1321415,1.59
+White,"Carnitine transporter deficiency (CTD)/carnitine uptake defect
+(CUD)",21,1321415,1.59
+White,"Congenital adrenal hyperplasia, classical salt wasting (CAH)",48,1321415,3.63
+White,"Congenital adrenal hyperplasia, classical simple virilizing
+(CAH)",6,1321415,0.45
+White,Cystic fibrosis (CF),305,1321415,23.08
+White,"Galactosemia, classical",26,1321415,1.97
+White,Glutaric acidemia type I (GA1),13,1321415,0.98
+White,"Hypothyroidism, primary congenital (PCH)",510,1321415,38.59
+White,Isovaleric acidemia (IVA),13,1321415,0.98
+White,"Medium chain acyl-CoA dehydrogenase deficiency (MCAD
+Deficiency)",111,1321415,8.40
+White,Phenylketonuria (PKU),100,1321415,7.57
+White,"SCID, severe combined immunodeficiency",14,795061,1.76
+White,Sickle Cell Disease,8,1321415,0.61
+White,"Very long chain acyl-CoA dehydrogenase deficiency (VLCAD
+deficiency)",10,1321415,0.76
