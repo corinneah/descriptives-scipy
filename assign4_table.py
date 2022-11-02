@@ -53,3 +53,33 @@ exampleTab1 = TableOne(example_data, columns=example_data_columns, categorical=e
 exampleTab1
 print(exampleTab1.tabulate(tablefmt = "fancy_grid"))
 exampleTab1.to_csv('/Users/corinne/Documents/GitHub/descriptives-scipy/data/test2.csv')
+
+#scipy website code 
+
+df = pd.read_csv('data/brain_size.csv')
+df
+
+#array 
+t = np.linspace(-6, 6, 20)
+sin_t = np.sin(t)
+cos_t = np.cos(t)
+pd.DataFrame({'t': t, 'sin': sin_t, 'cos': cos_t})   
+
+#t-test
+group1_viq = data[data['Group'] == 'Active']['Age']
+group2_viq = data[data['Group'] == 'Control']['Age']
+stats.ttest_ind(group1_viq, group2_viq)
+
+#linear regression 
+x = np.linspace(-5, 5, 20)
+np.random.seed(1)
+y = -5 + 3 * x + 4 * np.random.normal(size=x.shape)
+data = pd.DataFrame({'x': x, 'y': y})
+
+#t-test cont 
+data_fisq = pd.DataFrame({'iq': data['FSIQ'], 'type': 'fsiq'})
+data_piq = pd.DataFrame({'iq': data['PIQ'], 'type': 'piq'})
+data_long = pd.concat((data_fisq, data_piq))
+print(data_long)  
+model = ols("iq ~ type", data_long).fit()
+print(model.summary())  
